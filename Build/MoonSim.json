@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Moon VR",
+"productVersion": "0.1",
+"dataUrl": "MoonSim.data.unityweb",
+"wasmCodeUrl": "MoonSim.wasm.code.unityweb",
+"wasmFrameworkUrl": "MoonSim.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.9f1"
+}
